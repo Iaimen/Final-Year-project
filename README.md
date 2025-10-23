@@ -1,7 +1,7 @@
 # IoT-Based Sustainable Living Guide Application 🌿
 
 ## 📘 Project Overview
-The **IoT-Based Sustainable Living Guide Application** is a full-stack web and mobile system that promotes environmental sustainability by monitoring, analyzing, and predicting air quality and carbon footprint levels using IoT sensors and Machine Learning. This project integrates **Django (Backend)**, **React (Frontend)**, **Android Studio (Mobile App)**, and **IoT sensors (MQ135, MQ7, DHT22)** to provide real-time environmental insights, actionable recommendations, and sustainability forecasts.
+The **IoT-Based Sustainable Living Guide Application** is a full-stack web and mobile system that promotes environmental sustainability by monitoring, analyzing, and predicting air quality and carbon footprint levels using IoT sensors and Machine Learning. This project integrates **Django (Backend)**, **React (Frontend)**, and **IoT sensors (MQ135, MQ7, DHT22)** to provide real-time environmental insights, actionable recommendations, and sustainability forecasts.
 
 ---
 
@@ -11,7 +11,6 @@ The **IoT-Based Sustainable Living Guide Application** is a full-stack web and m
 - **Machine Learning (Random Forest):** Predicts future carbon footprint levels based on current and historical pollutant data.
 - **Notifications:** Alerts users when the environment becomes unsustainable.
 - **Frontend (React):** Displays dashboards, analytics, and forecasted environmental values.
-- **Mobile App (Android Studio):** Provides real-time alerts and sustainable recommendations.
 - **AI Chatbot:** Provides sustainability guidance and suggestions based on air quality analysis.
 
 ---
@@ -27,7 +26,7 @@ The **IoT-Based Sustainable Living Guide Application** is a full-stack web and m
 
 ### 📈 Data Analytics & Visualization
 - Live sensor data charts (bar and line graphs)
-- 7-day forecast using **XGBoost Machine Learning Model**
+- 7-day forecast using **Random Forest Machine Learning Model**
 - Comparison of forecasted vs current pollution levels
 
 ### 🤖 Machine Learning Integration (XGBoost)
@@ -84,8 +83,8 @@ frontend/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/aiman-mumtaz/sustainable-living-guide.git
-cd sustainable-living-guide
+git clone https://github.com/aiman-mumtaz/Final-Year-project.git
+cd Final-Year-project
 ```
 
 ### 2. Backend Setup (Django)
@@ -150,13 +149,6 @@ These notifications appear on the frontend dashboard and mobile app.
 
 ---
 
-## 📱 Mobile App Integration
-- Built using **Android Studio**
-- Fetches API data from Django backend
-- Displays sustainability tips, real-time sensor data, and forecasts
-
----
-
 ## 🧩 Technologies Used
 | Category | Technologies |
 |-----------|--------------|
@@ -164,8 +156,6 @@ These notifications appear on the frontend dashboard and mobile app.
 | **Backend** | Django, MySQL, REST API |
 | **IoT** | ESP32, Arduino IDE, MQ135, MQ7, DHT22 |
 | **Machine Learning** | Python, XGBoost, scikit-learn, Pandas |
-| **Mobile App** | Android Studio, Java/Kotlin |
-| **Notifications** | Django channels / custom push system |
 
 ---
 
