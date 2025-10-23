@@ -178,5 +178,19 @@ These notifications appear on the frontend dashboard and mobile app.
 ---
 
 ## 👩‍💻 Author
-**Aiman Mumtaz**  
-Final Year Project – IoT-Based Sustainable Living Guide Application    
+
+Final Year Project – IoT-Based Sustainable Living Guide Application
+
+**Supervisor:** Syed Ali Haider Naqvi
+📧 Email: alihaider@lgu.edu.pk
+🌐 LinkedIn: [https://www.linkedin.com/in/syed-ali-haider-n-32a132124/
+]
+
+**Grouper Member 1:** Shahzada Rizwan Ali
+📧 Email: shahzadarizwanali01@gmail.com  
+🌐 LinkedIn: [www.linkedin.com/in/shahzada-rizwan-ali-5087b0274]
+
+**Grouper Member 2:** Aiman Mumtaz
+📧 Email: aimanmumtaz@example.com  
+🌐 LinkedIn: [https://www.linkedin.com/in/aiman-mumtaz-79a1712a7/]
+  
